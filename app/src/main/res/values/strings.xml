@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bitcoin Status Neven Rudic Vranic</string>
+    <string name="what_is_bitcoin">Bitcoin can be used to buy things electronically. In that sense, it’s like conventional dollars, euros, or yen, which are also traded digitally.
+
+However, bitcoin’s most important characteristic, and the thing that makes it different to conventional money, is that it is decentralized. No single institution controls the bitcoin network. This puts some people at ease, because it means that a large bank can’t control their money.</string>
+    <string name="who_created">A software developer called Satoshi Nakamoto proposed bitcoin, which was an electronic payment system based on mathematical proof. The idea was to produce a currency independent of any central authority, transferable electronically, more or less instantly, with very low transaction fees.</string>
+</resources>
